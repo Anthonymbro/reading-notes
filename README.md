@@ -12,7 +12,7 @@ You're looking like a cool cat. 🐈 + 🕶️
  
  What a growth mindset means to me is when you are having a tough time going through something, you don't lie to yourself to get through it but you look at it in a different way to change your perspective on it and working toward a more favorable outcome but working on it.
  
- ## 3 Reminders to stay in a growth mindset:
+## 3 Reminders to stay in a growth mindset:
  
  1. Challenges. Whenever I feel myself start to get into an avoidance of a task at hand, I should take a short break, remember the growth mindset, and look for ways look at the task differently so I can see a solution in a step to take and go towards that.
  2. Critiscism. I do find it hard to take criticism sometimes from others especially when I am putting out alot of effort. A lot of times we tend to take things negatively as if it is just another bothersome moment on top of the negative things I am already experiencing. When this happens, I should take a step back, and.look at the situation through my critiscizers mind and maybe I can come to a place where I can capitalize on that critiscism to fix whatever I am working on provided they have good points.
