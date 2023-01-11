@@ -1,12 +1,12 @@
 # My Reading Journal
 
-## Hi. My name is Anthony and I am currently a student enrolled at Code Fellows in the 102 class. 
+## Hi. My name is Anthony and I think swing dancing is a great exercise.
 
-## ![Image](https://steamuserimages-a.akamaihd.net/ugc/1644340994747007967/853B20CD7694F5CF40E83AAC670572A3FE1E3D35/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
+## ![Look at this super cool image!](https://steamuserimages-a.akamaihd.net/ugc/1644340994747007967/853B20CD7694F5CF40E83AAC670572A3FE1E3D35/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
-F. 🐈 + 🕶️ 
-<sub> T!<sub/> 
- <sub>_W._ 🐈 + 🕶️<sub/>
+You're looking like a cool cat. 🐈 + 🕶️ 
+<sub> This is the same sentence but smaller and italiscized!<sub/> 
+ <sub>_You're looking like a cool cat._ 🐈 + 🕶️<sub/>
 
  Link to [my github portfolio](https://github.com/anthonymbro)
  
@@ -20,3 +20,10 @@ F. 🐈 + 🕶️
 
   
   
+  *df*
+  **df**
+  *df
+  >df
+  #df
+  &df
+  'df'
