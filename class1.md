@@ -11,3 +11,7 @@ Examples:
 * The # character will give you a heading depending on how many characters you use.
 
 That is how you use Markdown.
+
+## Things I Want To Learn More
+
+* How you all made this table of contents section in Lab 03.
