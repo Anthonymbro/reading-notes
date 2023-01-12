@@ -18,4 +18,4 @@ Cool cat. 🐈 + 🕶️
  2. Critiscism. I do find it hard to take criticism sometimes from others especially when I am putting out alot of effort. A lot of times we tend to take things negatively as if it is just another bothersome moment on top of the negative things I am already experiencing. When this happens, I should take a step back, and.look at the situation through my critiscizers mind and maybe I can come to a place where I can capitalize on that critiscism to fix whatever I am working on provided they have good points.
  3. Success of others. Instead of getting jealous of someone else's accomplishment and divvying it up to natural talents that I can never achieve, I use their success as inspiration into what I may able to accomplish myself. This is one thing I feel like I have an easier time doing within the growth mindset already.
 
- 
+ [Sci-Fi!](Star Wars.webp
