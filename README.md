@@ -1,12 +1,12 @@
 # My Reading Journal
 
-## Hi. My name is Anthony and I think swing dancing is a great exercise.
+## Hi. My name is Anthony and I am currently enrolled at Codefellows in the 102 class. I come from a blue collar background and I am excited to start coding.
 
 ## ![Look at this super cool image!](https://steamuserimages-a.akamaihd.net/ugc/1644340994747007967/853B20CD7694F5CF40E83AAC670572A3FE1E3D35/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
-You're looking like a cool cat. 🐈 + 🕶️ 
-<sub> This is the same sentence but smaller and italiscized!<sub/> 
- <sub>_You're looking like a cool cat._ 🐈 + 🕶️<sub/>
+Cool cat. 🐈 + 🕶️ 
+<sub> FTW!<sub/> 
+ <sub>_Cool cat._ 🐈 + 🕶️<sub/>
 
  Link to [my github portfolio](https://github.com/anthonymbro)
  
@@ -18,10 +18,5 @@ You're looking like a cool cat. 🐈 + 🕶️
  2. Critiscism. I do find it hard to take criticism sometimes from others especially when I am putting out alot of effort. A lot of times we tend to take things negatively as if it is just another bothersome moment on top of the negative things I am already experiencing. When this happens, I should take a step back, and.look at the situation through my critiscizers mind and maybe I can come to a place where I can capitalize on that critiscism to fix whatever I am working on provided they have good points.
  3. Success of others. Instead of getting jealous of someone else's accomplishment and divvying it up to natural talents that I can never achieve, I use their success as inspiration into what I may able to accomplish myself. This is one thing I feel like I have an easier time doing within the growth mindset already.
 
-  *dra*
-  **dra**
-  *dra
-  > dra
-  # dra
-  & dra
-  'dra'
+  `draw`
+ 
