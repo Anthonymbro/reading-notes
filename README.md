@@ -1,4 +1,4 @@
-# My Reading Journal
+# My Reading Notes
 
 ## My name is Anthony and I am currently enrolled at Codefellows in the 102 class. I come from a blue collar background and I am excited to start coding. This page is my first student project and I am taking notes on every lecture which will then be published on my page.
 
