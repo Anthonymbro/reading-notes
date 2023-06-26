@@ -7,4 +7,4 @@ My reading notes
 * Item 2
 
 ## Tables Of Contents
-[Class 01 Notes](./class-01.md)
+[Class 01 Notes](./Class-01.md)
