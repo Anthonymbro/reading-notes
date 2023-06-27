@@ -10,7 +10,7 @@ My reading notes
 * Item 2
 * Item 3
 
-### ***Hi. My name is Anthony and this is my project for Codefellows.***
+### ***Hi. My name is Anthony and this is my project for Codefellows. Here is a link to my ![Github Profile Page](https://github.com/Anthonymbro).***
 
 ## Tables Of Contents
 [Class 01 Notes](./Class-01.md)
