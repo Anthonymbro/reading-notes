@@ -14,3 +14,4 @@ My reading notes
 
 ## Tables Of Contents
 [Class 01 Notes](./Class-01.md)
+[Class 02 Notes](./Class-02.md)
