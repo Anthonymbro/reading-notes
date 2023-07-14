@@ -20,7 +20,7 @@ Parsing is when the browser looks at the different parts of a webpage and puts t
 
 3. How can you find images to add to a Website?
 
-You can look online or through your own computer. We first add the <img> tag and then add the “src.”
+You can look online or through your own computer. We first add the < img > tag and then add the “src.”
 
 4. How do you create a String vs a Number in JavaScript?
 
@@ -39,40 +39,40 @@ An HTML attribute is anything added to an HTML tag that adds or subtract somethi
 
 2. Describe the Anatomy of an HTMl element.
 -An opening tag.
-<a>
+< a >
 -An attribute if possible and/or optional.
 href=“//https:www.amadeupwebsite.com”
 -Some content
-<An example tag>Some content</An example tag>
+< An example tag >Some content< /An example tag >
 -A closing tag.
 </a>
 
-3. What is the Difference between <article> and <section> element tags? 
-When you are creating a webpage, you can divide the different sections of your HTML by separating then with the <section> tags for different sections. <article> tags are for when you want something to stand alone on its own.
+3. What is the Difference between < article > and < section > element tags? 
+When you are creating a webpage, you can divide the different sections of your HTML by separating then with the < section > tags for different sections. < article > tags are for when you want something to stand alone on its own.
 
 4. What Elements does a “typical” website include?
 
  Typical website includes elements like this:
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
+< !DOCTYPE html >
+< html lang="en" >
+< head >
+    < meta charset="UTF-8" >
+    < meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    < title >Document< /title >
+< /head >
+< body >
     
-</body>
-</html>
+< /body >
+< /html >
 
 5. How does metadata influence Search Engine Optimization?
 
 Metadata is the thing that influences Search Engine Optimization by putting in keywords that would help search engines understand what the data is all about and sees what information is most relevant to a user.
 
-6. How is the <meta> HTML tag used when specifying metadata?
+6. How is the < meta > HTML tag used when specifying metadata?
 
-The <meta> tag is used to wrap around specific information in your website that will tell the search engines what your website is about. This relevant information will be used to get the right people in for the topics you want to be discoverable.
+The < meta > tag is used to wrap around specific information in your website that will tell the search engines what your website is about. This relevant information will be used to get the right people in for the topics you want to be discoverable.
 
 Miscellaneous
 How to start to design a Website.
@@ -87,9 +87,9 @@ Define what you want to accomplish with it.
 What exactly do I want to accomplish with it?
 
 Semantics.
-1. Why should you use an <h1> element over a <span> element to display a top level heading?
+1. Why should you use an < h1 > element over a < span > element to display a top level heading?
 
-An <h1> element differentiates itself from a <span> element because it is bigger, bolder, and it belongs on top of the webpage as an attention getter. <span> is an inline tag that makes things more highlighted but not as attention grabbing as the heading. It also does not belong in the heading.
+An < h1 > element differentiates itself from a < span > element because it is bigger, bolder, and it belongs on top of the webpage as an attention getter. < span > is an inline tag that makes things more highlighted but not as attention grabbing as the heading. It also does not belong in the heading.
 
 1. What are the benefits of using semantic tags in our HTML?
 
@@ -102,7 +102,7 @@ What is JavaScript?
 * An alert.
 
 1. How can you add JavaScript to an HTML document?
-2. Script tags. <script></script>
+2. Script tags. < script >< /script >
 
 Things I Want To Know More About
 Nothing here.
