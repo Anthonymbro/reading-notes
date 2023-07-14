@@ -87,7 +87,7 @@ Define what you want to accomplish with it.
 What exactly do I want to accomplish with it?
 
 Semantics.
-1. Why should you use an < h1 > element over a < span > element to display a top level heading?
+1. Why should you use a < h1 > element over a < span > element to display a top level heading?
 
 An < h1 > element differentiates itself from a < span > element because it is bigger, bolder, and it belongs on top of the webpage as an attention getter. < span > is an inline tag that makes things more highlighted but not as attention grabbing as the heading. It also does not belong in the heading.
 
