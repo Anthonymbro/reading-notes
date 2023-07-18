@@ -16,7 +16,7 @@ There are 6 levels of headings in HTML.
 The < sup > element helps us show numbers that are higher up, and the < sub > element helps us show numbers that are lower down. We use them in different subjects like math, science, and even when we want to show special symbols like trademarks or copyright symbols.
 
 
-4. When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
+4. When using the < abbr > element, what attribute must be added to provide the full expansion of the term?
 
 title
 
